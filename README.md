@@ -1,7 +1,7 @@
 # Fitness-tracker
 
 ## PlEASE NOTE 
-Navigate to this repository to see the commit hostory.
+Navigate to this repository to see the commit history.
 [Github](https://github.com/efagioli01/Workout-Tracker)  
 I accidently cloned a new repo inside of my original repo, I then created a new repo called fitness tracker to push to Heroku which is the Github repo below in the repository section.
 
